@@ -5,21 +5,21 @@ class Languages extends Translations {
   Map<String, Map<String, String>> get keys => {
         'ur_PK': {
           'message':
-              'میں ایک پیشہ ور فلٹر ڈویلپر ہوں جس میں خوبصورت ایپلی کیشنز بنانے کا متنوع تجربہ ہے۔'
-                  'میں فی الحال یو ایس بیس کمپنی میں فلٹر ڈویلپر کے طور پر گھر سے (ریموٹ جاب) کام کر رہا ہوں۔',
-          'name': 'محمد نصیر',
+              'انا اسف يا هندسه بعتذر عن التاخير في التاسك بس حصل معايا فيه مشكله وقلت انفذ دا لوحده علي ما اشوف المشكله عندي فين في التاني ۔'
+                  'بكررر اعتذاري تاني واوعدك اني هعمله باذن الله مش هسيبه لما احله ۔',
+          'name': 'محمود عبدالقوي',
           'title': 'فلٹر لوکلائزیشن اور انٹرنیشنلائزیشن',
           'contact':
-              'اگر آپ کو فلٹر ایپ ڈویلپمنٹ کے بارے میں کوئی سوالات ہیں تو بلا جھجھک ہم سے رابطہ کریں۔',
+              'حبيبي يا هندسه معلش استحملني شويه انا بحاول علي اخري والله يا هندسه ۔',
         },
         'en_US': {
           'message':
-              'I am a professional flutter developer with diverse experience creating beautiful applications.'
-                  'I am currently working from home (Remote Job)as a Flutter developer in a US base company.',
-          'name': 'Muhammad Naseer',
+              'Im sorry, engineering, I apologize for the delay in the task, but I had a problem with it, and I said I should do this alone so I cant see where the problem is in the second.'
+                  'I repeat my apologies again, and I promise you that I will do it, God willing, and I will not leave it when I solve it..',
+          'name': 'Mahmoud Abdel-Qawi',
           'title': 'Flutter Localization and internationalization',
           'contact':
-              'If you have any queries about flutter app development, feel free to contact us'
+              'My love, engineering, sorry, bear with me for a while, I am trying on another, by God, engineering'
         },
       };
 }
